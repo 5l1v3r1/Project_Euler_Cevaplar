@@ -9,12 +9,12 @@ public class Problem1 {
 	}
 
 	private static int tamBolen3veya5toplam(int number) {
-		int toplam = 0;
+		int sum = 0;
 		for(int i=3;i<number;i++) {
 			if(i%3==0 || i%5==0) 
-				toplam+=i;
+				sum+=i;
 		}
-		return toplam;
+		return sum;
 		
 	}
 	
