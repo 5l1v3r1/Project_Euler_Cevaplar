@@ -21,7 +21,7 @@ public class Problem014 {
 				enuzunzincir = zincir;
 				uzunzinciresahipsayı = sayı;
 			}
-      // yeni bir sayı üzerinde deneme yapmak için değerleri ayarla.
+      			// yeni bir sayı üzerinde deneme yapmak için değerleri ayarla.
 			sayı++;
 			zincir = 0;
 		}
